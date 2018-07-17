@@ -1,4 +1,4 @@
-package calculadora;
+package br.edu.unifessapa.engsoft.calculadora;
 
 public class Calculadora {
 	

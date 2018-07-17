@@ -1,9 +1,11 @@
-package calculadora;
+package br.edu.unifessapa.engsoft.calculadora.testes;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import br.edu.unifessapa.engsoft.calculadora.Calculadora;
 
 public class CalculadoraTest {
 	private Calculadora calculadora;
